@@ -8,6 +8,8 @@ package com.test.demo;
  **/
 public class TestDemoGit {
     public static void main(String[] args) {
-        System.out.println("ok");
+		 System.out.println("ss");
+        System.out.println("asdas");
+		 System.out.println("ok");
     }
 }
