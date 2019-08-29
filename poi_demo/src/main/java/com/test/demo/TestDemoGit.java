@@ -9,6 +9,10 @@ package com.test.demo;
 public class TestDemoGit {
     public static void main(String[] args) {
 		 System.out.println("ss");
+        System.out.println("adsasd");
+        System.out.println("DATA_CONVERSION");
+        System.out.println("asdas");
+        System.out.println("Sdau");
         System.out.println("asdas");
 		 System.out.println("ok");
     }
